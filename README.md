@@ -21,3 +21,5 @@ While medical technology is advanced, healthcare delivery systems remain severel
 ---
 
 ## 🏗️ Technical Architecture & AWS Stack
+## 📜 Medical Disclaimer
+RetinaGuard AI is developed as a prototype demonstration for educational and preliminary screening assistance purposes only. It is not a replacement for professional ophthalmological diagnosis[cite: 1]. All flagged cases must be verified by a certified healthcare professional[cite: 1].
